@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubUserProfiles</string>
+    <string name="loading_please_wait">Loading git hub users </string>
+    <string name="content_picture">User avatar</string>
+
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

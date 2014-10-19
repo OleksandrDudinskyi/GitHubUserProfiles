@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_width">100dp</dimen>
+    <dimen name="avatar_height">100dp</dimen>
+    <dimen name="avatar_margin_left">10dp</dimen>
+    <dimen name="login_margin_top">10dp</dimen>
+    <dimen name="profile_url_margin_top">10dp</dimen>
+    <dimen name="avatar_width_zoom_in">400dp</dimen>
+    <dimen name="avatar_height_zoom_in">400dp</dimen>
+</resources>
